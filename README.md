@@ -16,8 +16,8 @@ This project showcases a comic strip generation pipeline built on fine-tuned **S
 - Fine-tuned SDXL with a dataset of yarn-style illustrations
 - Ensures all generated panels reflect a consistent handcrafted aesthetic
 
-### 2. Comic Frog Character Identity
-- Separate LoRA fine-tuning with a dataset of a custom frog character
+### 2. Comic Frog Character Consistency
+- Separate LoRA fine-tuning with a class dataset of a custom frog character
 - Maintains character continuity across multiple panels
 
 ## 🔧 Workflow (Current Implementation)
