@@ -29,10 +29,23 @@ This project showcases a comic strip generation pipeline built on fine-tuned **S
 - **Output**: A cohesive 4-panel comic strip with stylized visuals
 
 ## Sample Output Images from Style transfer
-![Sample Output1](Style Transfer/Inference sample images/sample_2.png)
-![Sample Output2](Style Transfer/Inference sample images/sample_3.png)
-![Sample Output3](Style Transfer/Inference sample images/sample_5.png)
-![Sample Output4](Style Transfer/Inference sample images/sample_6.png)
+- prompt = "a girl playing with a balloon, yarn art style"
+- negative_prompt = "blurry, low quality, distorted, extra limbs, bad anatomy, deformed face, realistic face"
+
+![Sample Output1](Style%20Transfer/Inference%20sample%20images/sample_2.png)
+
+- prompt = "a mother playing with a toddler girl in the park,yarn art style"
+- negative_prompt = "blurry, low quality, distorted, extra limbs, bad anatomy, deformed face, realistic face"
+
+![Sample Output2](Style%20Transfer/Inference%20sample%20images/sample_3.png)
+
+- prompt = "the cat is playing with a balloon,yarn art style"
+  
+![Sample Output3](Style%20Transfer/Inference%20sample%20images/sample_5.png)
+
+- prompt = "a toddler girl went to zoo,sunny background with lots of trees.The girl is looking at a monkey. Monkey is inside the cage. Toddler girl is standing outside the cage, in yarn art style"
+  
+![Sample Output4](Style%20Transfer/Inference%20sample%20images/sample_6.png)
 
 ## Sample Output Frog Comic
 ![Sample Output10](CharacterConsistency/comic_FrogStory_output1.png)
