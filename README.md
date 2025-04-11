@@ -29,6 +29,10 @@ This project showcases a comic strip generation pipeline built on fine-tuned **S
 - **Output**: A cohesive 4-panel comic strip with stylized visuals
 
 ## Sample Output Images from Style transfer
+![Sample Output1](Style Transfer/Inference sample images/sample_2.png)
+![Sample Output2](Style Transfer/Inference sample images/sample_3.png)
+![Sample Output3](Style Transfer/Inference sample images/sample_5.png)
+![Sample Output4](Style Transfer/Inference sample images/sample_6.png)
 
 ## Sample Output Frog Comic
 ![Sample Output10](CharacterConsistency/comic_FrogStory_output1.png)
