@@ -31,7 +31,7 @@ This project showcases a comic strip generation pipeline built on fine-tuned **S
 ## Sample Output Images from Style transfer
 
 ## Sample Output Frog Comic
-
+![Sample Output10](CharacterConsistency/comic_FrogStory_output1.png)
 ## ✅ Features Implemented
 
 - ✅ LoRA-based style transfer (yarn art aesthetic)
