@@ -49,6 +49,7 @@ This project showcases a comic strip generation pipeline built on fine-tuned **S
 
 ## Sample Output Frog Comic
 ![Sample Output10](CharacterConsistency/comic_FrogStory_output1.png)
+
 ## ✅ Features Implemented
 
 - ✅ LoRA-based style transfer (yarn art aesthetic)
@@ -56,12 +57,9 @@ This project showcases a comic strip generation pipeline built on fine-tuned **S
 - ✅ Multi-prompt support for 4-panel generation
 - ✅ CLIP & BLIP score-based visual/text alignment evaluation
 - ✅ Manual review for visual and narrative consistency
-
-## 🔄 Pending Tasks
-
-- 🔲 Integrate **GPT-4o** for automatic story-to-prompt generation
-- 🔲 Accept user input (text or audio) for dynamic comic creation
-- 🔲 Add frontend (Streamlit or similar) for preview/download
+- ✅ Integrated DeepSeek R1 for automatic story-to-prompt generation
+- ✅  Accept user input (text input) for dynamic comic creation
+- ✅  Deployed App using Gradio 
 
 ## 👥 Use Case Scenarios
 
@@ -70,6 +68,3 @@ This project showcases a comic strip generation pipeline built on fine-tuned **S
 - 🧑‍💼 Marketers – Custom storytelling for campaigns
 - 🧑‍💻 Hobbyists – Personal comic creation with unique styles
 
----
-
-> 📌 For now, this project uses hardcoded multi-panel prompts. Full GPT-4o integration for end-to-end story generation is in progress.
